@@ -12,13 +12,17 @@ Usage
 ------
 
     $ khaos create metalsmith <project>
-    
+
 Development
 -----------
 
 Locally it is possible to test if everything works using command below
 
     $ khaos create -d <paht/to/directory/that/contains/this/repo> khaos-metalsmith <project>
+
+ie from this directory:
+
+    $ khaos create -d .. khaos-metalsmith build
 
 ## License (MIT)
 
