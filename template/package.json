@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "./node_modules/metalsmith/bin/metalsmith",
-     "deploy": "sh deploy.sh"
+    "deploy": "sh deploy.sh"
   },
   "author": "lukasz.kaniowski@gmail.com",
   "license": "MIT",
